@@ -1,0 +1,21 @@
+.pad-left
+{
+padding-left: 17px;
+}
+.modal-header{
+	background-color: #483D8B !important;	
+}
+.modal-footer{
+ padding: 11px !important;
+}
+.red
+{
+	color: red;
+}
+.recommend
+ {
+ 	background-color: #F5F5F5;
+    overflow-y: scroll;
+    height: 155px;    
+    
+}
